@@ -1,6 +1,6 @@
-# Project Name
+## Project Name
 
-> review past project.
+### review past project.
 
 This project dispalys a list of javascript documentation.
 
